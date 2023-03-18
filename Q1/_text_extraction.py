@@ -1,4 +1,4 @@
-var = "C:\\Users\\Shivam Agrawal\\Desktop\\IR\\CSE508_Winter2023_A2_104\\CSE508_Winter2023_Dataset\\cranfield"
+var = "C:\\Users\\Shivam Agrawal\\Desktop\\IR\\CSE508_Winter2023_A2_104\\Q1\\CSE508_Winter2023_Dataset\\cranfield"
 
 #Printing before data extraction
 for i in range(5):
